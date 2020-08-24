@@ -1,2 +1,0 @@
-# rasch
-rasch model fitting
